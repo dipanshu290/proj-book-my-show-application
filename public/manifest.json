@@ -1,0 +1,30 @@
+{
+  "short_name": "BMS",
+  "name": "BookMyShow Clone",
+  "description": "A modern ticket-booking app with React, Razorpay, and TMDb integration.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#EF4444",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 24x24 32x32 64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
